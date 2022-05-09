@@ -69,6 +69,7 @@
     <string name="input_real_reach_distance">input real reach distance</string>
     <string name="select_request_mode">select request model</string>
     <string name="request_real_reach">request real reach</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic3VueS1sb2VtIiwiYSI6ImNsMnkwcmE0NzAyMW4zYm14MnZ1N3JjMjQifQ.BsD1wGpPQY461mfCNCVuuA</string>
 
     <string-array name="search_item_list">
         <item>food</item>
